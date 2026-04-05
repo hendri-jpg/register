@@ -1,4 +1,8 @@
 {
-  "description": "Website pribadi Hendri",
-  "repo": "https://github.com/hendri-jpg/hendri-jpg.github.io"
+  "owner": {
+    "username": "hendri-jpg"
+  },
+  "record": {
+    "CNAME": "hendri-jpg.github.io"
+  }
 }
